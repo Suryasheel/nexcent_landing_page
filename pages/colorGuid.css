@@ -1,0 +1,164 @@
+/* COLOR GUIDE STYLE STARTS */
+
+.netural_black_clr {
+    color: #263238;
+}
+
+.netural_black_bgClr {
+    background-color: #263238;
+}
+
+.d_text_clr{
+    color: #18191F;
+}
+.d_grey_clr {
+    color: #4D4D4D;
+}
+
+.d_grey_bgClr {
+    background-color: #4D4D4D;
+}
+
+.grey_clr {
+    color: #717171;
+}
+
+.grey_bgClr {
+    background-color: #717171;
+}
+
+.l_grey_clr {
+    color: #89939E;
+}
+
+.l_grey_bgClr {
+    background-color: #89939E;
+}
+
+.grey_blue_clr {
+    color:
+        #ABBED1;
+}
+.grey_blue_bgClr {
+    background-color:
+        #ABBED1;
+}
+
+.silver_clr{
+    color:
+        #F5F7FA;
+}
+.silver_bgClr{
+    background-color:
+        #F5F7FA;
+}
+.white_clr{
+    color:#FFFFFF;
+}
+.white_bgClr{
+    background-color:#FFFFFF;
+}
+.brand_primary_clr{
+    color: #4CAF4F;
+}
+.Primary {
+    color:
+        #28CB8B;
+}
+
+.Secondary {
+    color:
+        #263238;
+
+}
+
+.Info {
+    color:
+        #2194f3;
+
+}
+
+.Shade1 {
+    color:
+        #43A046;
+
+}
+
+.Shade2 {
+    color:
+        #388E3B;
+
+}
+
+.Shade3 {
+    color:
+        #237D31;
+
+}
+
+.Shade4 {
+    color:
+        #1B5E1F;
+
+}
+
+.Shade5 {
+    color:
+        #103E13;
+
+}
+
+.Tint1 {
+    color:
+        #66BB69;
+
+}
+
+.Tint2 {
+    color:
+        #81C784;
+
+}
+
+.Tint3 {
+    color:
+        #A5D6A7;
+
+}
+
+.Tint4 {
+    color:
+        #C8E6C9;
+
+}
+
+.Tint5 {
+    color:
+        #E8F5E9;
+
+}
+
+.Warning {
+    color:
+        #FBC02D;
+
+}
+
+.Error {
+    color:
+        #E53835;
+
+}
+
+.Success {
+    color:
+        #2E7D31;
+
+}
+
+.btn-success{
+    background-color: #4CAF4F !important;
+    color: #fff;
+}
+
+/* COLOR GUIDE STYLE ENDS */
